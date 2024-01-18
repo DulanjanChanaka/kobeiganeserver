@@ -12,9 +12,3 @@ const BabyScheama = new mongoose.Schema(
 
 module.exports = mongoose.model("Babies", BabyScheama);
 
-//FXLWBRsXDHtVWiJv
-//kobeigane1234
-
-//mongodb+srv://kobeiganehealth:vARNywGEh6tlpCqu@cluster0.gbggqrr.mongodb.net/?retryWrites=true&w=majority
-
-mongodb+srv://kobeiganehealthadmin:vARNywGEh6tlpCqu@cluster0.gbggqrr.mongodb.net/?retryWrites=true&w=majority
