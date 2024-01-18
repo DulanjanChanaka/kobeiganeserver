@@ -14,7 +14,7 @@ app.use("/api/babies", Babies);
 
 // app.get("/", (req, res) => res.status(200).json())
 
-mongoose.connect("mongodb+srv://kobeiganehealth:kobeigane1234@cluster0.sinqmir.mongodb.net/", {useNewUrlParser: true,
+mongoose.connect("mongodb+srv://kobeiganehealthadmin:vARNywGEh6tlpCqu@cluster0.gbggqrr.mongodb.net/?retryWrites=true&w=majority", {useNewUrlParser: true,
     useUnifiedTopology: true,}).then(()=>{
         console.log("DB Connection Successfull!");
     }).catch((err) => {
